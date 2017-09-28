@@ -1,7 +1,6 @@
 ﻿<%@ Page Title="About Me" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="Comp229_Assign01.About" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-    
     <div class="row">
         <div class="col-md-6">
             <asp:Image runat="server" ImageUrl="~/Assets/profile.jpg" Width="200px" align="right" />
@@ -10,18 +9,18 @@
             <h2>Mabel T.
             </h2>
             <p><strong><i>"A good way to stay flexible is to write less code."</i></strong></p>
-            <p>
+            <p style="text-align:center">
                 A classroom is not where learning starts or ends. With an open mind, I am always ready to expand my skills and knowledge. 
                 Technology is my motivation and I am proud to be a part of it.
             </p>
         </div>
         <div class="col-md-6">
             <h3>Short Biography:</h3>
-            I have previously studied at York University for Health Studies and at Centennial College for Pharmacy Technician.
+            <p style="text-align:center">I have previously studied at York University for Health Studies and at Centennial College for Pharmacy Technician.
             During my recent years at Centennial College, I have developed technical skills in software development. 
             These skills have developed my abilities to apply the principles of software engineering to the design, development, maintenance, and testing of software programs. 
             I am familiar with object-oriented software methodologies, user-interface design, C#, Java, Oracle, SQL, PL/SQL, HTML5, CSS, and JavaScript.
-        <p></p>
+            </p>
             <h3>Former Positions:</h3>
             <p></p>
         </div>
