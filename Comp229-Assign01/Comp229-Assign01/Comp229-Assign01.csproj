@@ -172,6 +172,7 @@
     <Content Include="Account\VerifyPhoneNumber.aspx" />
     <Content Include="Assets\it-banner.png" />
     <Content Include="Assets\logo.png" />
+    <Content Include="Assets\paper_icon.png" />
     <Content Include="Assets\profile.jpg" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />

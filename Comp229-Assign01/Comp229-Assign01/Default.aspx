@@ -17,19 +17,19 @@
         <div class="col-md-4">
             <h2>My Resume</h2>
             <p>
-                I am actively looking for a part-time IT position. Click the image below or "About Me" in the navigation bar to view my resume.
+                I am actively looking for a part-time IT position. Click the icon below or "About Me" in the navigation bar to view my resume.
             </p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
+                <asp:Image ImageUrl="~/Assets/paper_icon.png" runat="server" onclick="window.location='About.aspx'" ID="paper_icon" align="middle"/>
             </p>
         </div>
         <div class="col-md-4">
             <h2>Contact Me</h2>
             <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
+                For any inquiries, I am reachable by address, phone, email and social media.
             </p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+                <a class="btn btn-default" href="~/Contact.aspx">Learn more &raquo;</a>
             </p>
         </div>
     </div>
