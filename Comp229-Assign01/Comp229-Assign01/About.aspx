@@ -10,8 +10,9 @@
             <h2><p>Mabel T.</p></h2>
             <p><strong><i>"A good way to stay flexible is to write less code."</i></strong></p>
             <p>A classroom is not where learning starts or ends. With an open mind, I am always ready to expand my skills and knowledge. 
-                I will keep moving forward as long as technology advances.
+                Technology is my motivation and I am proud to be a part of it.
             </p>
         </div>
     </div>
+    <div class=""
 </asp:Content>
